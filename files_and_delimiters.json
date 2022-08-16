@@ -1,0 +1,13 @@
+{
+  "may": { 
+    "name": "orig_csvs/may.csv", 
+     "delimiter": "," 
+  },
+  "may_trunc": { 
+    "name": "orig_csvs/may_trunc.csv", 
+     "delimiter": "," },
+  "june": { "name": "orig_csvs/june.csv", "delimiter": ","},
+  "full": { "name": "may_and_june_to_only.csv", "delimiter": " "},
+  "small": { "name": "may_26_first_5.csv", "delimiter": "," }
+}
+
